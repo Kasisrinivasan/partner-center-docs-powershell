@@ -1,0 +1,21 @@
+### YamlMime:Tutorial
+title: Authentication - Introduction to connect to the Partner Center PowerShell module tutorial
+metadata:
+  title: Authentication - Connecting to the Partner Center Powershell module tutorial
+  description: In this tutorial, you will learn about the secure application and how to leverage it with the Partner Center PowerShell module.
+  audience: Developer
+  level: Beginner
+  ms.date: 05/24/2019
+  displayType: two-column
+  interactive: csharp
+  ms.custom: mvc
+items:
+- durationInMinutes: 1
+  content: |
+    This tutorial will teach you about the secure application model and how to leverage it with the Partner Center PowerShell module. It contains a series of lessons that start with an overview and detailed instructions on how to create the prerequisites. These lessons will teach you how to securely connect and how you can connect without user interaction.
+- title: Secure application model overview
+  durationInMinutes: 2
+  content: |
+    The secure application model is a secure and scalable framework used to authenticate when connecting to an API/SDK and PowerShell module. 
+
+    ![Secure application model](~/media/secure-app-model.png)

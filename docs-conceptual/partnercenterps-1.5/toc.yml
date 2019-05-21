@@ -9,3 +9,9 @@
       href: multi-factor-auth.md
     - name: Secure Application Model
       href: secure-app-model.md
+- name: Tutorials
+  items:
+    - name: Get started
+      items:
+        - name: Connecting using the secure application model
+          href: tutorials/authentication.yml
