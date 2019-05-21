@@ -14,4 +14,4 @@
     - name: Get started
       items:
         - name: Connecting using the secure application model
-          href: tutorials/authentication.yml
+          href: ../tutorials/authentication.yml
