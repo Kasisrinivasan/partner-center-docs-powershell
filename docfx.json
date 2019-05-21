@@ -41,13 +41,13 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "media/**"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**"
-        ]
+        ], 
+        "version": "partnercenterps-1.5"
       }
     ],
     "versions": {
